@@ -16,3 +16,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+
+
+# Git Push
+
+git push allows your personal changes to the repo to be seen by someone else on github
+
+user can use git bash and use the command "git push origin master"
